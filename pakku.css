@@ -1,0 +1,48 @@
+body {
+    background-color: #000000;
+  
+}
+h1 {
+    color: #FFFF00;
+    
+}
+p {
+    color: #ffffff;
+    
+
+
+    
+      
+}
+em {
+    color: rgb(0, 252, 255);
+
+}
+
+h2 {
+    color: #FD0000;
+}
+
+h3  {
+    color: rgb(252, 180, 85);
+}
+hr{
+    border: 0;
+
+  border-top: 2px dotted rgb(252, 180, 170);
+ 
+ 
+}
+div {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+  }
+div.PMborder {
+
+    border-color: #1919A6;
+    border-width: thick;
+    border-style: solid;   
+
+}
